@@ -1,12 +1,16 @@
 # ddcci-mfc
 
-Win32APIからDDC/CIでディスプレイの輝度を制御するサンプルです。
-
 Sample MFC application of DDC/CI(Display Data Channel Command Interface).
+
+Win32APIからDDC/CIでディスプレイの輝度を制御するサンプルです。
 
 ![image-20210917154829592](README.assets/image-20210917154829592.png)
 
 You can change monitor brightness with DDC/CI.
+
+## Test
+
+Run *x64/Release/MonitorSetterClassic.exe*.
 
 ## Using Methods
 
