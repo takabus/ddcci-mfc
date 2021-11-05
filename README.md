@@ -6,6 +6,8 @@ Win32APIからDDC/CIでディスプレイの輝度を制御するサンプルで
 
 ![image-20210917154829592](README.assets/image-20210917154829592.png)
 
+https://youtu.be/gj19IzGf8mY
+
 You can change monitor brightness with DDC/CI.
 
 ## Test
